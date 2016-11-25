@@ -1,0 +1,6 @@
+= DeskOS: perl-Gtk2-Unique RPM
+
+This is the _perl-Gtk2-Unique_ RPM package for the *DeskOS* operating system.
+
+Upstream comes from the NUX Dextop 7:
+http://li.nux.ro/download/nux/dextop/el7/SRPMS/perl-Gtk2-Unique-0.05-10.el7.nux.src.rpm[perl-Gtk2-Unique-0.05-10.el7.nux.src.rpm]
